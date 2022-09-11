@@ -49,7 +49,6 @@ public class CountOfNumberOfDigits {
 
 	public static void main(String[] args) // main function and important function as this handles
 	{
-		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter a number: ");
 		int number = scanner.nextInt();// Example 12345
