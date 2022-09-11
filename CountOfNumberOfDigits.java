@@ -1,5 +1,3 @@
-package javaProgramsForGitUpload;
-
 import java.util.*;
 
 /**
