@@ -1,8 +1,8 @@
 import java.util.*;
 
 /**
- * 
- * @author AnshumanSarkar2001 Count of digits using two methods:
+ * @author AnshumanSarkar2001
+ * Count of digits using two methods:
  *  -without using recursion 
  *  -using recursion 
  *  -using number as a string
